@@ -1,0 +1,9 @@
+.example-card {
+    max-width: 300px;
+    max-height: 300px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19605.jpg');
+    background-size: cover;
+  }
